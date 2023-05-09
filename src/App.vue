@@ -4,4 +4,6 @@
   </div>
 </template>
 
-<script setup></script>
+<script setup>
+import {} from '@headlessui/vue'
+</script>
